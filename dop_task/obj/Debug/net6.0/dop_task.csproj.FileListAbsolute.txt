@@ -1,0 +1,5 @@
+C:\Users\Николай\Desktop\Sem_2\dop_task\obj\Debug\net6.0\dop_task.csproj.AssemblyReference.cache
+C:\Users\Николай\Desktop\Sem_2\dop_task\obj\Debug\net6.0\dop_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Николай\Desktop\Sem_2\dop_task\obj\Debug\net6.0\dop_task.AssemblyInfoInputs.cache
+C:\Users\Николай\Desktop\Sem_2\dop_task\obj\Debug\net6.0\dop_task.AssemblyInfo.cs
+C:\Users\Николай\Desktop\Sem_2\dop_task\obj\Debug\net6.0\dop_task.csproj.CoreCompileInputs.cache
